@@ -11,6 +11,6 @@
 - 📚 I'm currently learning Python
 - 💻 I'm looking to collaborate with Flutter projects
 - ✉️ How to reach me: thiagop.pinho@outlook.com <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopinho&layout=compact&hide=html,kotlin,swift)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopinho&layout=compact&hide=html,kotlin,swift,objective-c)](https://github.com/anuraghazra/github-readme-stats)<br>
 
  
