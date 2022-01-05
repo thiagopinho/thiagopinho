@@ -7,8 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/othiagopp")](https://www.instagram.com/othiagopp) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/othiagopp)](https://www.twitter.com/othiagopp) 
 
-- 🎓 Graduating in Big Data for Business - <a href="http://www.fatecipiranga.edu.br/"> Fatec Ipiranga</a> <br>
-- 🎓 And... graduating in Software Engineering - <a href="https://estacio.br/"> Estácio</a> <br>
+- 🎓 Graduating in Software Engineering - <a href="https://estacio.br/"> Estácio</a> <br>
 - 📖 I'm currently learning Python and Ruby
 - 🔍️ I'm looking to collaborate with Flutter projects
 - 📫 How to reach me: thiagop.pinho@outlook.com <br><br>
