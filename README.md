@@ -1,4 +1,4 @@
-<img src="welcome_ruby.gif" height="200">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F700BC&background=FFFFFF00&vCenter=true&width=500&lines=Welcome+to+Thiago+Pinho's+repository)](https://git.io/typing-svg)
 
 ### Hi there, I'm Thiago! 👋
 
@@ -8,7 +8,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/othiagopp)](https://www.twitter.com/othiagopp) 
 
 - 🎓 Graduating in Software Engineering - <a href="https://estacio.br/"> Estácio</a> <br>
-- 📖 I'm currently learning Python and Ruby
 - 🔍️ I'm looking to collaborate with Flutter projects
 - 📫 How to reach me: thiagop.pinho@outlook.com <br><br>
 
