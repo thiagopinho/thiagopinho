@@ -12,6 +12,6 @@
 - 📫 How to reach me: thiagop.pinho@outlook.com <br><br>
 
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thiagopinho&hide=css,xml,html,text,java,git,kotlin,Git%20Config,markdown,json,groovy,other,php,properties&theme=jolly") width="400">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thiagopinho&hide=css,xml,html,text,java,git,kotlin,Git%20Config,markdown,json,groovy,other,php,properties,bash,powershell&theme=jolly") width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagopinho&theme=jolly" height="135" width="400">
 </p>
